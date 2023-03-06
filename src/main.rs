@@ -1,8 +1,8 @@
 use clap::Parser;
 
-/// A simple CLI application using clap
+/// Command line utility for stylish interactive charts
 #[derive(Debug, Parser)]
-#[clap(name = "cli-clap")]
+#[clap(name = "plotter")]
 struct App {
     #[clap(subcommand)]
     cmd: Subcommands,

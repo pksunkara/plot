@@ -1,11 +1,11 @@
 [package]
-name    = "cli-clap"
+name    = "plotter"
 version = "0.0.1"
 
 authors     = ["Pavan Kumar Sunkara <pavan.sss1991@gmail.com>"]
-description = "A simple CLI application using clap"
-homepage    = "https://github.com/termapps/cli-clap"
-repository  = "https://github.com/termapps/cli-clap"
+description = "Command line utility for stylish interactive charts"
+homepage    = "https://github.com/termapps/plotter"
+repository  = "https://github.com/termapps/plotter"
 
 edition      = "2021"
 rust-version = "1.67.0"
@@ -18,7 +18,7 @@ readme     = "README.md"
 clap = { version = "~4.1.8", features = ["derive", "wrap_help"] }
 
 [[bin]]
-name = "cli-clap"
+name = "plotter"
 path = "src/main.rs"
 
 [profile.release]

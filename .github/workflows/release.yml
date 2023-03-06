@@ -1,5 +1,5 @@
 env:
-  NAME: cli-clap
+  NAME: plotter
 name: Release
 on:
   push:
