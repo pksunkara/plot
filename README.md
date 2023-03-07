@@ -57,3 +57,9 @@ MIT/X11
 <!-- omit from toc -->
 ## Bug Reports
 Report [here](http://github.com/termapps/plotter/issues).
+
+<!-- omit from toc -->
+## Creator
+Pavan Kumar Sunkara (pavan.sss1991@gmail.com)
+
+Follow me on [github](https://github.com/users/follow?target=pksunkara), [twitter](http://twitter.com/pksunkara)
