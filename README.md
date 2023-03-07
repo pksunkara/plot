@@ -28,8 +28,7 @@
 ### With [Homebrew](https://brew.sh/)
 
 ```
-$ brew tap termapps/tap
-$ brew install plotter
+$ brew install termapps/tap/plotter
 ```
 
 <!-- omit from toc -->

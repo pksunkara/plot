@@ -1,0 +1,5 @@
+name = "plotter"
+description = "Command line utility for stylish interactive charts"
+repository = "termapps/plotter"
+license = "MIT"
+homepage = "https://github.com/termapps/plotter"
